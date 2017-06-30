@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    
+    
+    <link rel="apple-touch-icon" sizes="57x57" href="img/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="img/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="img/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="img/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="img/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="img/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="img/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="img/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="img/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="img/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="img/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="img/favicon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    
+    
+<script src="https://use.fontawesome.com/1e915ed25e.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css">
+    
+<!--    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">-->
+    
+<!--    <link rel="stylesheet" href="css/slide-and-swipe-menu.css">-->
+    
+    <link rel="stylesheet" href="css/style.min.css">
+</head>
+<body>
+
+
+
+<script>
+    window.onload = function() {
+        document.getElementsByTagName("title")[0].innerHTML = "Рибне свято - Главная";
+    }
+
+</script>
+<div class="remodal-bg">
+    <header class="z-depth-4">
+    </header>
+    <section id="start" class="parallax-container">
+        <!-- <div class="parallax"><img src="img/banner.jpg"></div> -->
+        <div class="start_slider">
+            <div class="slide slide1">
+                <img src="img/banner1.jpg" alt="">
+                <!--                 <div class="wr">
+                    <div class="head_h1 uppCase">рыба</div>
+                    <div class="head_h1">от <b>производителя</b></div>
+                    <a href="#" class="main_btn">Узнать больше</a>
+                </div> -->
+            </div>
+            <div class="slide slide2">
+                <a href="#"><img src="img/banner02.jpg" alt=""></a>
+                <!--                 <div class="wr">
+                    <div class="head_h1 uppCase">рыба</div>
+                    <div class="head_h1">от <b>производителя</b></div>
+                    <a href="#" class="main_btn">Узнать больше</a>
+                </div> -->
+            </div>
+        </div>
+    </section>
+    <section id="advantages">
+        <div class="wr">
+            <div class="main_head">Наши преимущества</div>
+            <div class="main_p">ООО "Транс Атлантик Фиш" уже более <b>18</b> лет занимается производством рыбных закусок. Безупречное качество продукции и лояльные цены на ассортимент рыбы позволяет развивать дилерские сети, наращивать конкурентоспособность и завоевывать новых оптовых клиентов по всей Украине.</div>
+        </div>
+    </section>
+    <section id="productuion">
+        <div class="wr" id="prod_container">
+        </div>
+    </section>
+    <section id="aboutUs">
+        <div class="wr">
+            <div class="main_head">О нас</div>
+            <div class="main_p">Предприятие "ТАФ" успешно работает на рынке с 2005 года. Пройден путь от скромного коптильного цеха до производства с современным оборудованием и квалифицированным персоналом.</div>
+            <div class="main_p">На всех этапах развития одной из первостепенных задач "ТАФ" было и остается обеспечение потребностей как можно большего количества</div>
+        </div>
+    </section>
+    <section id="cooperation" class="bg_bez">
+        <div class="wr">
+            <div class="main_head">Сотрудничество</div>
+            <div class="main_p">Если вы поставщик сырья или оборудования, то коммерческие предложения</div>
+            <a href="#modal" class="main_btn">Напишите нам </a>
+        </div>
+    </section>
+    <footer>
+    </footer>
+
+    <div class="remodal forma" data-remodal-id="modal">
+        <button data-remodal-action="close" class="remodal-close"></button>
+        <form action="" class="form_request" id="js_register_form">
+            <div class="form_headName">Связаться с нами</div>
+            <div class="form_ubder_headName">Наш менеджер свяжется с Вами</div>
+            <div class="input_container">
+                <div class="input-field">
+                    <input id="form_name" type="text" name="form_name" class="validate">
+                    <label for="form_name">Имя<span>*</span></label>
+                </div>
+                <div class="input-field">
+                    <input id="form_phone" name="form_phone" type="tel" class="validate">
+                    <label for="form_phone">Телефон<span>*</span></label>
+                </div>
+                <div class="input-field">
+                    <input id="form_email" name="form_email" type="email" class="validate">
+                    <label for="form_email">Email<span>*</span></label>
+                </div>
+                <div class="input-field">
+                    <textarea id="form_activity" class="validate"></textarea>
+                    <label class="label_textarea" for="form_activity">Комментарии</label>
+                </div>
+            </div>
+            <button data-remodal-action="confirm" type="submit" class="send_form main_btn">Отправить</button>
+        </form>
+    </div>
+
+</div>
+<script id="goods" type="text/x-handlebars-template">
+    {{#each goodCategory}}
+        <a href="{{href}}" class="ptod_item">
+            <div class="wr_pic"><img src="{{img_link}}" alt=""></div>
+            <div class="prod_item_name main_p">{{categoryName}}</div>
+        </a>
+    {{/each}}
+</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<!--<script src="lib/parallax.min.js"></script>-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
+
+<script src="lib/remodal.min.js"></script>
+<!--<script src="lib/jquery.slideandswipe.js"></script>-->
+<!--<script src="lib/functions.js"></script>-->
+<script src="http://labs.rampinteractive.co.uk/touchSwipe/jquery.touchSwipe.min.js"></script>
+
+<script src="lib/jquery.slideandswipe.js"></script>
+
+<script src="lib/jquery.maskedinput.min.js"></script>
+
+<script src="lib/slick.js"></script>
+
+<script src="lib/slick-lightbox.js"></script>
+
+<script src="lib/jquery.validate.min.js"></script>
+
+<script src="lib/jquery.sticky.js"></script>
+
+<script src="lib/stickyfill.js"></script>
+
+<script src="lib/handlebars-v4.0.10.js"></script>
+
+
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script> -->
+<script src="lib/wow.min.js"></script>
+
+<!-- <script src="lib/flipclock.js"></script> -->
+
+<!-- !!!! FOR BACKENDER: !!!!!
+    Please, if necessary, add your JS-code into a file settings.js, in order to prevent of overwritting each other.
+-->
+<script src="lib/settings.js"></script>
+
+<script>
+
+</script>
+
+<script src="js/common.min.js"></script>
+</body>
+
+</html>

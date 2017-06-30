@@ -1,0 +1,1745 @@
+{
+    "goodCategory": [
+        {
+            "categoryName": "Рыба горячего копчения",
+            "img_link": "img/img_1.jpg",
+            "href": "#",
+            "items": [
+                {
+                    "items_name": "Рыба горячего копчения_1",
+                    "price": "199.00",
+                    "weight": "8",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_1. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба горячего копчения_2",
+                    "price": "185.00",
+                    "weight": "4",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_2. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба горячего копчения_3",
+                    "price": "155.00",
+                    "weight": "4",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_3. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба горячего копчения_4",
+                    "price": "100.00",
+                    "weight": "2",
+                    "availability": false,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_4. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба горячего копчения_5",
+                    "price": "55.00",
+                    "weight": "1",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_5. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба горячего копчения_6",
+                    "price": "101.00",
+                    "weight": "45",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_6. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба горячего копчения_7",
+                    "price": "201.00",
+                    "weight": "44",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_7. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба горячего копчения_8",
+                    "price": "141.00",
+                    "weight": "14",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_8. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба горячего копчения_9",
+                    "price": "171.00",
+                    "weight": "38",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_9. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба горячего копчения_10",
+                    "price": "401.00",
+                    "weight": "11",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_10. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба горячего копчения_11",
+                    "price": "105.00",
+                    "weight": "17",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_11. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба горячего копчения_12",
+                    "price": "87.00",
+                    "weight": "5",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_12. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "categoryName": "Рыба холодного копчения",
+            "img_link": "img/slide_pics/2.jpg",
+            "href": "#",
+            "items": [
+                {
+                    "items_name": "Рыба холодного копчения_1",
+                    "price": "199.00",
+                    "weight": "8",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "main_pic": "img/img_1.jpg",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_1. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба холодного копчения_2",
+                    "price": "185.00",
+                    "weight": "4",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "main_pic": "img/img_2.jpg",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_2. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба холодного копчения_3",
+                    "price": "155.00",
+                    "weight": "4",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "main_pic": "img/img_3.jpg",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_3. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба холодного копчения_4",
+                    "price": "100.00",
+                    "weight": "2",
+                    "availability": false,
+                    "packaging": "гофроящик",
+                    "main_pic": "img/img_4.jpg",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_4. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба холодного копчения_5",
+                    "price": "55.00",
+                    "weight": "1",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "main_pic": "img/img_5.jpg",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_5. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба холодного копчения_6",
+                    "price": "101.00",
+                    "weight": "45",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "main_pic": "img/img_6.jpg",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_6. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба холодного копчения_7",
+                    "price": "201.00",
+                    "weight": "44",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "main_pic": "img/img_7.jpg",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_7. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба холодного копчения_8",
+                    "price": "141.00",
+                    "weight": "14",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "main_pic": "img/img_8.jpg",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_8. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба холодного копчения_9",
+                    "price": "171.00",
+                    "weight": "38",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "main_pic": "img/img_9.jpg",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_9. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба холодного  копчения_10",
+                    "price": "401.00",
+                    "weight": "11",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "main_pic": "img/img_1.jpg",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_10. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба холодного копчения_11",
+                    "price": "105.00",
+                    "weight": "17",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "main_pic": "img/img_2.jpg",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_11. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба холодного копчения_12",
+                    "price": "87.00",
+                    "weight": "5",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "main_pic": "img/img_.jpg",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_12. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "categoryName": "Рыба слабосоленая",
+            "img_link": "img/slide_pics/3.jpg",
+            "href": "#",
+            "items": [
+                {
+                    "items_name": "Рыба слабосоленая_1",
+                    "price": "199.00",
+                    "weight": "8",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_1. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба слабосоленая_2",
+                    "price": "185.00",
+                    "weight": "4",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_2. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба слабосоленая_3",
+                    "price": "155.00",
+                    "weight": "4",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_3. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба слабосоленая_4",
+                    "price": "100.00",
+                    "weight": "2",
+                    "availability": false,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_4. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба слабосоленая_5",
+                    "price": "55.00",
+                    "weight": "1",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_5. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба слабосоленая_6",
+                    "price": "101.00",
+                    "weight": "45",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_6. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба слабосоленая_7",
+                    "price": "201.00",
+                    "weight": "44",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_7. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба слабосоленая_8",
+                    "price": "141.00",
+                    "weight": "14",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_8. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба слабосоленая_9",
+                    "price": "171.00",
+                    "weight": "38",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_9. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба слабосоленая_10",
+                    "price": "401.00",
+                    "weight": "11",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_10. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба слабосоленая_11",
+                    "price": "105.00",
+                    "weight": "17",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_11. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба слабосоленая_12",
+                    "price": "87.00",
+                    "weight": "5",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_12. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "categoryName": "Пресервы из морепродуктов",
+            "img_link": "img/slide_pics/4.jpg",
+            "href": "#",
+            "items": [
+                {
+                    "items_name": "Пресервы_1",
+                    "price": "199.00",
+                    "weight": "8",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_1. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Пресервы_2",
+                    "price": "185.00",
+                    "weight": "4",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_2. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Пресервы_3",
+                    "price": "155.00",
+                    "weight": "4",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_3. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Пресервы_4",
+                    "price": "100.00",
+                    "weight": "2",
+                    "availability": false,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_4. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Пресервы_5",
+                    "price": "55.00",
+                    "weight": "1",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_5. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Пресервы_6",
+                    "price": "101.00",
+                    "weight": "45",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_6. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Пресервы_7",
+                    "price": "201.00",
+                    "weight": "44",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_7. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Пресервы_8",
+                    "price": "141.00",
+                    "weight": "14",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_8. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Пресервы_9",
+                    "price": "171.00",
+                    "weight": "38",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_9. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Пресервы_10",
+                    "price": "401.00",
+                    "weight": "11",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_10. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Пресервы_11",
+                    "price": "105.00",
+                    "weight": "17",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_11. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Пресервы_12",
+                    "price": "87.00",
+                    "weight": "5",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_12. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "categoryName": "Рыба вяленая",
+            "img_link": "img/slide_pics/5.jpg",
+            "href": "#",
+            "items": [
+                {
+                    "items_name": "Рыба вяленая_1",
+                    "price": "199.00",
+                    "weight": "8",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_1. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба вяленая_2",
+                    "price": "185.00",
+                    "weight": "4",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_2. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба вяленая_3",
+                    "price": "155.00",
+                    "weight": "4",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_3. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба вяленая_4",
+                    "price": "100.00",
+                    "weight": "2",
+                    "availability": false,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_4. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба вяленая_5",
+                    "price": "55.00",
+                    "weight": "1",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_5. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба вяленая_6",
+                    "price": "101.00",
+                    "weight": "45",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_6. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба вяленая_7",
+                    "price": "201.00",
+                    "weight": "44",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_7. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба вяленая_8",
+                    "price": "141.00",
+                    "weight": "14",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_8. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба вяленая_9",
+                    "price": "171.00",
+                    "weight": "38",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_9. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба вяленая_10",
+                    "price": "401.00",
+                    "weight": "11",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_10. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба вяленая_11",
+                    "price": "105.00",
+                    "weight": "17",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_11. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыба вяленая_12",
+                    "price": "87.00",
+                    "weight": "5",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_12. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "categoryName": "Рыбные снеки",
+            "img_link": "img/slide_pics/1.jpg",
+            "href": "#",
+            "items": [
+                {
+                    "items_name": "Рыбные снеки_1",
+                    "price": "199.00",
+                    "weight": "8",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_1. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыбные снеки_2",
+                    "price": "185.00",
+                    "weight": "4",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_2. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыбные снеки_3",
+                    "price": "155.00",
+                    "weight": "4",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_3. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыбные снеки_4",
+                    "price": "100.00",
+                    "weight": "2",
+                    "availability": false,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_4. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыбные снеки_5",
+                    "price": "55.00",
+                    "weight": "1",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_5. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыбные снеки_6",
+                    "price": "101.00",
+                    "weight": "45",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_6. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыбные снеки_7",
+                    "price": "201.00",
+                    "weight": "44",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_7. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыбные снеки_8",
+                    "price": "141.00",
+                    "weight": "14",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_8. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыбные снеки_9",
+                    "price": "171.00",
+                    "weight": "38",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_9. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыбные снеки_10",
+                    "price": "401.00",
+                    "weight": "11",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_10. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыбные снеки_11",
+                    "price": "105.00",
+                    "weight": "17",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_11. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Рыбные снеки_12",
+                    "price": "87.00",
+                    "weight": "5",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_12. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                }
+            ]
+        },
+        {
+            "categoryName": "Салаты",
+            "img_link": "img/slide_pics/2.jpg",
+            "href": "#",
+            "items": [
+                {
+                    "items_name": "Салаты_1",
+                    "price": "199.00",
+                    "weight": "8",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_1. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Салаты_2",
+                    "price": "185.00",
+                    "weight": "4",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_2. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Салаты_3",
+                    "price": "155.00",
+                    "weight": "4",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_3. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Салаты_4",
+                    "price": "100.00",
+                    "weight": "2",
+                    "availability": false,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_4. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Салаты_5",
+                    "price": "55.00",
+                    "weight": "1",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_5. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Салаты_6",
+                    "price": "101.00",
+                    "weight": "45",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_6. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Салаты_7",
+                    "price": "201.00",
+                    "weight": "44",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_7. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Салаты_8",
+                    "price": "141.00",
+                    "weight": "14",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_8. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Салаты_9",
+                    "price": "171.00",
+                    "weight": "38",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_9. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Салаты_10",
+                    "price": "401.00",
+                    "weight": "11",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_10. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Салаты_11",
+                    "price": "105.00",
+                    "weight": "17",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_11. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                },
+                {
+                    "items_name": "Салаты_12",
+                    "price": "87.00",
+                    "weight": "5",
+                    "availability": true,
+                    "packaging": "гофроящик",
+                    "fabricator": "ТАФ",
+                    "sDescr": "Краткое описание товаракатегории рыбной продукции",
+                    "description": "Описание_12. В данной группе товаров предлагаем Вам ознакомиться с ассортиментом рыбы горячего копчения. Наша компания специализируется на переработке рыбы, основным направлением производства которой занимает холодное копчение всех видов рыбы и других морепродуктов натуральным способом.",
+                    "imgArray": [
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg",
+                        "img/slide_pics/4.jpg",
+                        "img/slide_pics/5.jpg",
+                        "img/slide_pics/1.jpg",
+                        "img/slide_pics/2.jpg",
+                        "img/slide_pics/3.jpg"
+                    ]
+                }
+            ]
+        }
+    ]
+}

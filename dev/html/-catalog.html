@@ -1,0 +1,64 @@
+<script>
+    window.onload = function() {
+        document.getElementsByTagName("title")[0].innerHTML = "Рибне свято - Каталог товаров";
+    }
+
+</script>
+<div class="remodal-bg">
+    <header class="z-depth-4">
+    </header>
+
+    <!-- Catalog of production -->
+
+    <section id="catalog">
+        <div class="wr">
+            <aside class="wow fadeInDown">
+                <ul>
+                    <li><a class="active" href="#">Рыба холодного копчения</a></li>
+                    <li><a href="#">Рыба слобосоленая</a></li>
+                    <li><a href="#">Рыба горячего копчения</a></li>
+                    <li><a href="#">Пресервы из морепродуктов</a></li>
+                    <li><a href="#">Рыба вяленая</a></li>
+                    <li><a href="#">Рыбные снеки</a></li>
+                    <li><a href="#">Салаты</a></li>
+
+                </ul>
+                <div class="logo_triangle"></div>
+            </aside>
+            <div class="main_catalog">
+                <div class="name">Рыба холодного копчения</div>
+                <div class="fl_cont" id="first_ctalog_content">
+                </div>
+            </div>
+        </div>
+        <div class="wr under_prod">
+            <div class="name">Холодное копчение натуральным способом</div>
+            <div class="descr_prod">Холодное копчение натуральным способом Холодное копчение производится исключительно натуральным способом, с использованием дымо-воздушной смеси, которая вырабатывается дымогенераторами без использования каково либо жидкого дыма и прочей химии в производстве. С уверенностью в своём продукте, мы не один год бодро шагаем по рынку оптовых поставок рыбы холодного копчения, как в Киевском регионе, так и по всей Украине. Важным аспектом при выборе продукции у каждого из дистрибутора есть внешний вид товара, качество, стоимость и сроки хранения, что позитивно влияет на продаваемость нашего товара. Рыба холодного копчения имеет небольшой сезонный штиль продаж, но в сравнении с рядом других видов готовой продукции, длительность спада продаж не продолжительна. Что есть важным аргументом при выборе ассортимента рыбной продукции вашей торговой точки.</div>
+        </div>
+    </section>
+    <footer>
+
+    </footer>
+
+</div>
+
+
+<script id="first_ctalog" type="text/x-handlebars-template">
+    {{#each items}}
+    <div class="fl_item">
+        <div class="img_wr"><img src="{{main_pic}}" alt=""></div>
+        <div class="under_img">
+            <div class="prod_name">{{items_name}}</div>
+            <div class="price_cont">
+                <div class="price"><span>{{price}}</span>грн/кг</div>
+                <a class="main_btn">Подробнее</a>
+            </div>
+        </div>
+    </div>
+    {{/each}}
+</script>
+<script>
+    
+
+
+</script>

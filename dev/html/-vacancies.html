@@ -1,0 +1,32 @@
+<script>
+    window.onload = function() {
+        document.getElementsByTagName("title")[0].innerHTML = "Рибне свято - Вакансии";
+    }
+
+</script>
+<div class="remodal-bg">
+    <header class="z-depth-4">
+    </header>
+    <section id="vacansies">
+        <div class="wr">
+            <div class="vacancies_header page_name">Вакансии</div>
+            <ul class="collapsible" data-collapsible="accordion">
+            </ul>
+        </div>
+    </section>
+    <footer>
+
+    </footer>
+
+</div>
+
+<script id="vacancies_base" type="text/x-handlebars-template">
+    {{#objV}}
+    <li class="">
+        <div class="collapsible-header">{{name}}</div>
+        <div class="collapsible-body">
+            {{{descr}}}
+        </div>
+    </li>
+{{/objV}}
+</script>

@@ -1,0 +1,102 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.icon-arrow_l- {
+  background-image: url(../img/spriteW.png);
+  background-position: -97px 0px;
+  width: 22px;
+  height: 42px;
+}
+.icon-arrow_l {
+  background-image: url(../img/spriteW.png);
+  background-position: -119px 0px;
+  width: 16px;
+  height: 28px;
+}
+.icon-arrow_r- {
+  background-image: url(../img/spriteW.png);
+  background-position: -97px -42px;
+  width: 22px;
+  height: 42px;
+}
+.icon-arrow_r {
+  background-image: url(../img/spriteW.png);
+  background-position: -119px -28px;
+  width: 16px;
+  height: 28px;
+}
+.icon-contakt {
+  background-image: url(../img/spriteW.png);
+  background-position: -72px -49px;
+  width: 24px;
+  height: 24px;
+}
+.icon-delivery {
+  background-image: url(../img/spriteW.png);
+  background-position: 0px -49px;
+  width: 48px;
+  height: 39px;
+}
+.icon-download {
+  background-image: url(../img/spriteW.png);
+  background-position: -70px -88px;
+  width: 18px;
+  height: 18px;
+}
+.icon-email {
+  background-image: url(../img/spriteW.png);
+  background-position: -25px -88px;
+  width: 21px;
+  height: 21px;
+}
+.icon-lika {
+  background-image: url(../img/spriteW.png);
+  background-position: 0px -88px;
+  width: 25px;
+  height: 23px;
+}
+.icon-logo_vt {
+  background-image: url(../img/spriteW.png);
+  background-position: 0px 0px;
+  width: 55px;
+  height: 49px;
+}
+.icon-mail {
+  background-image: url(../img/spriteW.png);
+  background-position: -46px -88px;
+  width: 24px;
+  height: 18px;
+}
+.icon-maps {
+  background-image: url(../img/spriteW.png);
+  background-position: -119px -56px;
+  width: 16px;
+  height: 27px;
+}
+.icon-payment {
+  background-image: url(../img/spriteW.png);
+  background-position: -55px 0px;
+  width: 42px;
+  height: 46px;
+}
+.icon-tik {
+  background-image: url(../img/spriteW.png);
+  background-position: -48px -49px;
+  width: 24px;
+  height: 24px;
+}
