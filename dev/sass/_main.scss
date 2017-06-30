@@ -432,6 +432,9 @@ footer {
         .flex_item {
             flex: 1;
             //flex-basis : 
+            &:last-child li {
+                align-items: center;
+            }
             .name {
                 color: $white;
                 font-weight: 600;
@@ -1278,6 +1281,9 @@ footer {
                 }
             }
         }
+    }
+    #map {
+        height: 100vh;
     }
 }
 

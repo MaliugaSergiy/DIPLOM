@@ -4476,6 +4476,10 @@ footer {
       -webkit-box-flex: 1;
           -ms-flex: 1;
               flex: 1; }
+      footer .wr .flex_item:last-child li {
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center; }
       footer .wr .flex_item .name {
         color: #FFF;
         font-weight: 600; }
@@ -5040,6 +5044,8 @@ footer {
         text-align: center;
         padding: 15px 20px;
         margin-top: 10px; }
+  #contacts #map {
+    height: 100vh; }
 
 @media screen and (max-width: 920px) {
   #contacts {

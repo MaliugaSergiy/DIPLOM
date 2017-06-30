@@ -4,7 +4,7 @@ $(document).ready(function () {
 
     //Vacancies datas from google spreadsheets
 //
-    if (document.getElementsByClassName("collapsible")) {
+    if (document.getElementById("vacancies_base")) {
         $.getJSON("https://spreadsheets.google.com/feeds/list/1Jl9jZ7S8tCzWjtseppatWxOhICcAo46h3sUS_JjSV9w/od6/public/values?alt=json", function (data) {
             //console.log(data['feed']['entry']);
             var data = data['feed']['entry'];
