@@ -4327,7 +4327,8 @@ header {
 
 #start {
   height: auto;
-  margin-top: 80px; }
+  margin-top: 80px;
+  cursor: pointer; }
   #start .start_slider .slide img {
     width: 100%;
     height: auto; }

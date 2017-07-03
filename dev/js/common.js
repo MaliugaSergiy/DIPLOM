@@ -3,13 +3,13 @@ $(document).ready(function () {
 
 
     //Vacancies datas from google spreadsheets
-//
+    //
     if (document.getElementById("vacancies_base")) {
         $.getJSON("https://spreadsheets.google.com/feeds/list/1Jl9jZ7S8tCzWjtseppatWxOhICcAo46h3sUS_JjSV9w/od6/public/values?alt=json", function (data) {
             //console.log(data['feed']['entry']);
             var data = data['feed']['entry'];
             var vacan = [];
-           
+
             for (var key in data) {
                 var id = data[key]['gsx$id']['$t'];
                 var name = data[key]['gsx$name']['$t'];
@@ -35,7 +35,7 @@ $(document).ready(function () {
             $('.collapsible').collapsible();
         });
     }
-    
+
 
 
     // Handelbars
@@ -102,6 +102,21 @@ $(document).ready(function () {
         });
     }
 
+    if (document.getElementById("card_template_source")) {
+
+        var $first_ctalog_content = $("#card_template_source");
+        $.ajax({
+            url: "base.json"
+        }).done(function (data) {
+            console.log(data.goodCategory[1]);
+            var source = $("#card_template").html();
+            var template = Handlebars.compile(source);
+            var html = template(data.goodCategory[1]);
+            $first_ctalog_content.append(html);
+        });
+
+    }
+
 
 
 
@@ -140,17 +155,17 @@ $(document).ready(function () {
             var keyCode = e.keyCode;
             if (keyCode == 27) {}
         }
-        
+
         //header behaviour by scrolling
         var $header = $("header"),
             $aside = $("aside");
-        
+
         $.scrollDetection({
-            scrollDown: function() {
+            scrollDown: function () {
                 $header.css("top", "-80px");
                 $aside.css("top", "0");
             },
-            scrollUp: function() {
+            scrollUp: function () {
                 $header.css("top", "0");
                 $aside.css("top", "80px");
             }
@@ -160,7 +175,7 @@ $(document).ready(function () {
     });
     $("footer").load("templates/footer.html");
 
-    
+
 
 
     // setting for slick-sliders
@@ -287,35 +302,35 @@ $(document).ready(function () {
     //Form VAlidation 
 
     $("#js_register_form, #js_register_form2").validate({
-            rules: {
-               form_name: {
-                   required: true
-                },
-                form_email: {
-                    required: true,
-                    email: true
-                },
-                form_phone: {
-                    required: true,
-                    minlenhth: 10,
-                    digits: true
-                },
+        rules: {
+            form_name: {
+                required: true
             },
-            messages: {
-                form_name: {
-                    required: "	&uarr; Обязательное поле"
-                },
-                form_email: {
-                    required: "	&uarr; Обязательное поле",
-                    email: "	Не корректный Email"
-                },
-                form_phone: {
-                    required: "	&uarr; Обязательное поле"
-                }
+            form_email: {
+                required: true,
+                email: true
             },
-            focusCleanup: true,
-            focusInvalid: false
-        });
+            form_phone: {
+                required: true,
+                minlenhth: 10,
+                digits: true
+            },
+        },
+        messages: {
+            form_name: {
+                required: "	&uarr; Обязательное поле"
+            },
+            form_email: {
+                required: "	&uarr; Обязательное поле",
+                email: "	Не корректный Email"
+            },
+            form_phone: {
+                required: "	&uarr; Обязательное поле"
+            }
+        },
+        focusCleanup: true,
+        focusInvalid: false
+    });
 
 
     //phone input mask
