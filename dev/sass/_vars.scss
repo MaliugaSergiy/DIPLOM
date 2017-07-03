@@ -5,7 +5,7 @@ $white: #FFF;
 $darkBlue: #082F54;
 $grey: #6E6E6E;
 $tr: transparent;
-$orangeH: #FA6F32;
+$orangeH:   #FA6F32;
 $lBraun: #AE745C;
 $lBraun2: #B7815F;
 $violet: #2a1647;
@@ -21,7 +21,9 @@ $form_border: #808285;
 * {
     outline: none;
 }
-
+body {
+	background-color: #F2F8F9;
+}
 button:focus {
     background-color: transparent;
 }

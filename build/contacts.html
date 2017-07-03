@@ -65,19 +65,19 @@
                         <div class="form_headName">Связаться с нами</div>
                         <div class="form_ubder_headName">Наш менеджер свяжется с Вами</div>
                         <div class="input_container">
-                            <div class="input-field">
+                            <div class="input-field wow fadeInRight">
                                 <input id="form_name" type="text" name="form_name" class="validate">
                                 <label for="form_name">Имя<span>*</span></label>
                             </div>
-                            <div class="input-field">
+                            <div class="input-field  wow fadeInRight" data-wow-delay="0.2s">
                                 <input id="form_phone" name="form_phone" type="tel" class="validate">
                                 <label for="form_phone">Телефон<span>*</span></label>
                             </div>
-                            <div class="input-field">
+                            <div class="input-field  wow fadeInRight"  data-wow-delay="0.4s">
                                 <input id="form_email" name="form_email" type="email" class="validate">
                                 <label for="form_email">Email<span>*</span></label>
                             </div>
-                            <div class="input-field">
+                            <div class="input-field  wow fadeInRight"  data-wow-delay="0.6s">
                                 <input id="qqq" type="text" name="qqq" class="validate">
                                 <label for="qqq">Тема обращения</label>
                             </div>
@@ -96,6 +96,11 @@
 
 </div>
 
+<script type="text/javascript" src="lib/googleMapSettings.js"></script>
+
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyDxT-Qey3-KU9oFDsaFwwRyEHDUNI1JmdY&callback=initMap">
+</script>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <!--<script src="lib/parallax.min.js"></script>-->
@@ -122,11 +127,8 @@
 
 <script src="lib/handlebars-v4.0.10.js"></script>
 
-<script type="text/javascript" src="lib/googleMapSettings.js"></script>
+<script src="lib/jquery.scrollDetection.js"></script>
 
-<script async defer
-        src="https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyDxT-Qey3-KU9oFDsaFwwRyEHDUNI1JmdY&callback=initMap">
-</script>
 
 
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script> -->
@@ -134,9 +136,6 @@
 
 <!-- <script src="lib/flipclock.js"></script> -->
 
-<!-- !!!! FOR BACKENDER: !!!!!
-    Please, if necessary, add your JS-code into a file settings.js, in order to prevent of overwritting each other.
--->
 <script src="lib/settings.js"></script>
 
 <script>

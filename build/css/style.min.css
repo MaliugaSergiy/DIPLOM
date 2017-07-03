@@ -339,6 +339,9 @@
 * {
   outline: none; }
 
+body {
+  background-color: #F2F8F9; }
+
 button:focus {
   background-color: transparent; }
 
@@ -4128,6 +4131,8 @@ header {
   width: 100%;
   left: 0;
   top: 0px;
+  opacity: 1;
+  opacity: 1;
   transition: top 0.3s ease-in-out; }
   header main {
     display: none;
@@ -4137,6 +4142,9 @@ header {
       transition: 0.3s; }
       header main a i:hover {
         color: #2a1647; }
+  header .scrollDown {
+    top: -100%;
+    opacity: 0; }
   header nav {
     box-shadow: 10px 0px 10px -6px rgba(0, 0, 0, 0.75);
     display: none;
@@ -4320,20 +4328,16 @@ header {
 #start {
   height: auto;
   margin-top: 80px; }
-  #start .start_slider .slide {
-    /*             background-image: url(../img/banner.jpg);
-            background-position: top center;
-            background-repeat: no-repeat; */ }
-    #start .start_slider .slide img {
-      width: 100%;
-      height: auto; }
-    #start .start_slider .slide .wr {
-      height: 650px;
-      text-align: center;
-      padding: 330px 0 75px; }
-      #start .start_slider .slide .wr .main_btn:hover {
-        background-color: #8D7C6C;
-        color: #FFF; }
+  #start .start_slider .slide img {
+    width: 100%;
+    height: auto; }
+  #start .start_slider .slide .wr {
+    height: 650px;
+    text-align: center;
+    padding: 330px 0 75px; }
+    #start .start_slider .slide .wr .main_btn:hover {
+      background-color: #8D7C6C;
+      color: #FFF; }
   #start .start_slider .slide2 {
     /* background-image: url(../img/banner01.jpg); */ }
 
@@ -4461,7 +4465,8 @@ footer {
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  background-position: left bottom; }
+  background-position: left bottom;
+  box-shadow: 0px -3px 15px 0px rgba(50, 50, 50, 0.75); }
   footer .wr {
     padding: 20px 10px 0;
     display: -webkit-box;
@@ -4482,6 +4487,8 @@ footer {
                 align-items: center; }
       footer .wr .flex_item .name {
         color: #FFF;
+        padding-left: 15px;
+        text-transform: uppercase;
         font-weight: 600; }
       footer .wr .flex_item ul {
         margin-top: 10px; }
@@ -4532,6 +4539,7 @@ footer {
   #catalog .wr {
     position: relative; }
     #catalog .wr aside {
+      transition: 0.3s;
       float: left;
       display: inline-block;
       display: inline-block;
@@ -4647,6 +4655,7 @@ footer {
     #card2 .wr aside {
       background-color: #EBEBEB;
       padding: 0 10px;
+      transition: 0.3s;
       max-width: 250px;
       position: -webkit-sticky;
       position: sticky;
@@ -4919,6 +4928,7 @@ footer {
     #vacansies .wr .collapsible .collapsible-header {
       border-bottom: 1px solid #B7815F;
       text-transform: uppercase;
+      background-color: #F2F8F9;
       font-size: 20px; }
       #vacansies .wr .collapsible .collapsible-header:after {
         content: "  \f078";
@@ -4977,75 +4987,96 @@ footer {
 #contacts {
   min-height: 80vh;
   margin-top: 80px; }
-  #contacts .wr .flex_container {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    margin-top: 15px;
-    -webkit-box-pack: justify;
-        -ms-flex-pack: justify;
-            justify-content: space-between; }
-    #contacts .wr .flex_container .address {
-      padding-top: 60px;
-      padding-left: 20px;
-      -webkit-box-flex: 4;
-          -ms-flex: 4;
-              flex: 4; }
-    #contacts .wr .flex_container .fl_item a,
-    #contacts .wr .flex_container .fl_item div {
-      color: #2a1647;
-      font-size: 18px;
-      display: block;
-      padding: 10px; }
-      #contacts .wr .flex_container .fl_item a i,
-      #contacts .wr .flex_container .fl_item div i {
-        margin-right: 20px;
-        display: inline-block;
-        font-size: 25px; }
-    #contacts .wr .flex_container .forma {
-      margin-right: 100px;
-      -webkit-box-flex: 3;
-          -ms-flex: 3;
-              flex: 3;
-      border: 1px solid #808285;
-      padding: 20px; }
-      #contacts .wr .flex_container .forma form {
-        width: 100%;
-        text-align: center; }
-        #contacts .wr .flex_container .forma form .form_headName {
-          font-size: 18px;
-          font-weight: bold;
-          text-transform: uppercase; }
-        #contacts .wr .flex_container .forma form .input_container * {
-          padding: 0;
-          margin: 0; }
-        #contacts .wr .flex_container .forma form .input_container .input-field input {
-          margin: 10px 0;
-          border: 1px solid #B7815F;
-          box-shadow: none;
-          padding-left: 15px;
-          color: #2a1647;
-          height: auto;
-          padding: 10px;
-          width: 70%; }
-        #contacts .wr .flex_container .forma form .input_container .input-field label {
-          top: 50%;
-          -webkit-transform: translateY(-50%);
-                  transform: translateY(-50%);
-          left: 17%;
-          color: #082F54; }
-          #contacts .wr .flex_container .forma form .input_container .input-field label span {
-            color: red; }
-        #contacts .wr .flex_container .forma form .input_container .input-field label:not(.label-icon).active {
-          font-size: .8rem;
-          -webkit-transform: translateY(-140%);
-          transform: translateY(-240%); }
-      #contacts .wr .flex_container .forma button {
-        text-align: center;
-        padding: 15px 20px;
-        margin-top: 10px; }
+  #contacts .wr {
+    margin-bottom: 30px; }
+    #contacts .wr .flex_container {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      margin-top: 15px;
+      -webkit-box-pack: justify;
+          -ms-flex-pack: justify;
+              justify-content: space-between; }
+      #contacts .wr .flex_container .address {
+        padding-top: 60px;
+        padding-left: 20px;
+        -webkit-box-flex: 4;
+            -ms-flex: 4;
+                flex: 4; }
+      #contacts .wr .flex_container .fl_item a,
+      #contacts .wr .flex_container .fl_item div {
+        color: #2a1647;
+        font-size: 18px;
+        display: block;
+        padding: 10px; }
+        #contacts .wr .flex_container .fl_item a i,
+        #contacts .wr .flex_container .fl_item div i {
+          margin-right: 20px;
+          display: inline-block;
+          font-size: 25px; }
+      #contacts .wr .flex_container .forma {
+        margin-right: 100px;
+        -webkit-box-flex: 3;
+            -ms-flex: 3;
+                flex: 3;
+        border: 1px solid #808285;
+        padding: 20px; }
+        #contacts .wr .flex_container .forma form {
+          width: 100%;
+          text-align: center; }
+          #contacts .wr .flex_container .forma form .form_headName {
+            font-size: 18px;
+            font-weight: bold;
+            text-transform: uppercase; }
+          #contacts .wr .flex_container .forma form .input_container * {
+            padding: 0;
+            margin: 0; }
+          #contacts .wr .flex_container .forma form .input_container .input-field input {
+            margin: 10px 0;
+            border: 1px solid #B7815F;
+            box-shadow: none;
+            padding-left: 15px;
+            color: #2a1647;
+            height: auto;
+            padding: 10px;
+            width: 70%; }
+            #contacts .wr .flex_container .forma form .input_container .input-field input.error {
+              box-shadow: inset 1px 1px 10px 0px #ff0303, inset -1px -1px 10px 0px #ff0303; }
+          #contacts .wr .flex_container .forma form .input_container .input-field label {
+            top: 50%;
+            -webkit-transform: translateY(-50%);
+                    transform: translateY(-50%);
+            left: 17%;
+            color: #082F54; }
+            #contacts .wr .flex_container .forma form .input_container .input-field label span {
+              color: red; }
+            #contacts .wr .flex_container .forma form .input_container .input-field label.error {
+              color: red !important;
+              top: 100% !important;
+              left: 45%;
+              font-size: 14px; }
+          #contacts .wr .flex_container .forma form .input_container .input-field label:not(.label-icon).active {
+            font-size: .8rem;
+            -webkit-transform: translateY(-140%);
+            transform: translateY(-240%); }
+        #contacts .wr .flex_container .forma button {
+          text-align: center;
+          padding: 15px 20px;
+          margin-top: 10px; }
   #contacts #map {
-    height: 100vh; }
+    height: 100vh;
+    margin-bottom: 30px;
+    position: relative; }
+    #contacts #map:before {
+      content: "";
+      pointer-events: none;
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 1;
+      box-shadow: inset 0 -100px 106px -24px #f2f8f9, inset 0 100px 106px -24px #f2f8f9; }
 
 @media screen and (max-width: 920px) {
   #contacts {

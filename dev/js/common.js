@@ -140,10 +140,27 @@ $(document).ready(function () {
             var keyCode = e.keyCode;
             if (keyCode == 27) {}
         }
+        
+        //header behaviour by scrolling
+        var $header = $("header"),
+            $aside = $("aside");
+        
+        $.scrollDetection({
+            scrollDown: function() {
+                $header.css("top", "-80px");
+                $aside.css("top", "0");
+            },
+            scrollUp: function() {
+                $header.css("top", "0");
+                $aside.css("top", "80px");
+            }
+        });
+
 
     });
     $("footer").load("templates/footer.html");
 
+    
 
 
     // setting for slick-sliders
@@ -269,36 +286,36 @@ $(document).ready(function () {
 
     //Form VAlidation 
 
-    //    $("#js_register_form").validate({
-    //        rules: {
-    //            form_name: {
-    //                required: true
-    //            },
-    //            form_email: {
-    //                required: true,
-    //                email: true
-    //            },
-    //            form_phone: {
-    //                required: true,
-    //                minlenhth: 10,
-    //                digits: true
-    //            },
-    //        },
-    //        messages: {
-    //            form_name: {
-    //                required: "Обязательное поле"
-    //            },
-    //            form_email: {
-    //                required: "Обязательное поле",
-    //                email: "Введите корректный Email"
-    //            },
-    //            form_phone: {
-    //                required: "Обязательное поле"
-    //            }
-    //        },
-    //        focusCleanup: true,
-    //        focusInvalid: false
-    //    });
+    $("#js_register_form, #js_register_form2").validate({
+            rules: {
+               form_name: {
+                   required: true
+                },
+                form_email: {
+                    required: true,
+                    email: true
+                },
+                form_phone: {
+                    required: true,
+                    minlenhth: 10,
+                    digits: true
+                },
+            },
+            messages: {
+                form_name: {
+                    required: "	&uarr; Обязательное поле"
+                },
+                form_email: {
+                    required: "	&uarr; Обязательное поле",
+                    email: "	Не корректный Email"
+                },
+                form_phone: {
+                    required: "	&uarr; Обязательное поле"
+                }
+            },
+            focusCleanup: true,
+            focusInvalid: false
+        });
 
 
     //phone input mask

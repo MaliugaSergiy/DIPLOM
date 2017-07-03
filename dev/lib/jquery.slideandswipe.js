@@ -172,7 +172,7 @@
                 } else {
                     showNavigation();
                 }
-                e.preventDefault();
+                //e.preventDefault();
             });
         };
 })(window.jQuery || window.$, document, window);
